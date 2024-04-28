@@ -4,7 +4,7 @@
 
 Decision Tree
 
-![hw1](NYCU_IIM_DataMining_2022/2022-data-mining/HW1_/hw1_request.png)
+![hw1](HW1_/hw1_request.png)
 
 -------------------------
 
@@ -12,7 +12,7 @@ Decision Tree
 
 Word2Vec 
 
-![hw2](NYCU_IIM_DataMining_2022/2022-data-mining/HW2_/hw2_request.png)
+![hw2](HW2_/hw2_request.png)
 
 -------------------------
 
@@ -20,7 +20,7 @@ Word2Vec
 
 Time Series Regression
 
-![hw3](NYCU_IIM_DataMining_2022/2022-data-mining/HW3_/hw3_request.png)
+![hw3](HW3_/hw3_request.png)
 
 -------------------------
 
@@ -28,7 +28,7 @@ Time Series Regression
 
 Sentiment Analysis with CNN & LSTM
 
-![hw4](NYCU_IIM_DataMining_2022/2022-data-mining/HW4_/hw4_request.png)
+![hw4](HW4_/hw4_request.png)
 
 -------------------------
 
@@ -36,7 +36,7 @@ Sentiment Analysis with CNN & LSTM
 
 Hadoop & Spark
 
-![hw5](NYCU_IIM_DataMining_2022/2022-data-mining/HW5_/hw5_request.png)
+![hw5](HW5_/hw5_request.png)
 
 
 
